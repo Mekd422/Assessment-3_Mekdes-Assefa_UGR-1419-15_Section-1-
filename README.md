@@ -3,4 +3,5 @@ The application performs basic arithmetic operations:
                                                    Addition,
                                                    Subtraction,
                                                    Multiplication and 
-                                                   Division
+                                                   Division.
+                                                   
